@@ -1,3 +1,5 @@
+//https://docs.duendesoftware.com/identityserver/v7/quickstarts/2_interactive/
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
